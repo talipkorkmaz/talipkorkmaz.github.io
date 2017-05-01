@@ -8,8 +8,8 @@ url: http://talipkorkmaz.github.io # site url
 baseurl: null # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
-google_analytics: UA-XXXXX-XX
-repo: http://github.com/heiswayi/thinkspace
+google_analytics: UA-88774563-1
+repo: http://github.com/talipkorkmaz/talipkorkmaz.github.io
 disqus_shortname: "hnbloggithub"
 twitter_username: "HeiswayiNrird"
 comments: true
@@ -33,12 +33,12 @@ author:
   job      : "Software manager/architect/developer."
   bio      : "Developing with passion for equality and transformation of world"
   thumb    : /images/author.jpg
-  email    : hnrird@gmail.com
-  url      : http://heiswayi.github.io
+  email    : talipkorkmaz@gmail.com
+  url      : http://talipkorkmaz.github.io
   github   : https://github.com/talipkorkmaz
   twitter  : http://twitter.com/HeiswayiNrird
   facebook : https://www.facebook.com/heiswayi.nrird
-  linkedin : http://linkedin.com/in/nrird
+  linkedin : https://www.linkedin.com/in/talip-korkmaz-925a6312
   stackoverflow : http://stackoverflow.com/users/1530849/talipkorkmaz
 
 # social settings
