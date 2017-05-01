@@ -10,7 +10,7 @@ baseurl: null # apply repo name if use it under gh-pages branch
 
 google_analytics: UA-88774563-1
 repo: http://github.com/talipkorkmaz/talipkorkmaz.github.io
-disqus_shortname: "hnbloggithub"
+disqus_shortname: "talipkorkmaz-github-io"
 twitter_username: "HeiswayiNrird"
 comments: true
 
