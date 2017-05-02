@@ -168,6 +168,10 @@ But there are lots of images which I'm done.So lets delete all with a small scri
 ```shell
 $ docker rm $(docker ps -a -q -f status=exited)
 ```
+or
+```shell
+$ docker rmi $(docker images | awk '{print $3}')
+```
 
 I always use --rm parameter when executing an image.Because --rm is very useful in docker run command.It automatically deletes after the execution done.
 Here is the example
